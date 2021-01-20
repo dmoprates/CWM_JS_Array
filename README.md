@@ -1,2 +1,2 @@
 # CWM_JS_Array
- Arquivos do curso Web Moderno
+ Repositório do curso Web Moderno
